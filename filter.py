@@ -3,6 +3,13 @@ import matplotlib.pyplot as plt
 from sklearn.cluster import KMeans
 
 # Qué cenaste Marce??
+# Pizza pedida por delivery porque nadie tiene ganas de cocinar en esta casa
+# Bañate MArce
+''':B:B:B:BB:BB:BB ah re, me gust ala empanada de humita
+(*￣3￣)╭
+ヾ(＠⌒ー⌒＠)ノ
+ñuflas
+'''
 # Creamos un DataFrame con los datos
 df = pd.DataFrame({'Grupo': ['A', 'B', 'A', 'B', 'A', 'B', 'A', 'A', 'B', 'A'],
                    'Columna': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
