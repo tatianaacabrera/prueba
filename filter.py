@@ -2,6 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn.cluster import KMeans
 
+# Qué cenaste Marce??
 # Creamos un DataFrame con los datos
 df = pd.DataFrame({'Grupo': ['A', 'B', 'A', 'B', 'A', 'B', 'A', 'A', 'B', 'A'],
                    'Columna': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
